@@ -1,0 +1,64 @@
+.header-class {
+  font-family: sans-serif;
+  color: white;
+
+  padding: 60px; 
+
+  margin: 20px;
+  background-color: powderblue;
+  border: dotted 9px black;
+  text-align: center;
+}
+
+.summary-class { 
+  background-color: indianred; 
+  border: 9px dotted white; 
+  padding: 60px;
+  margin: 20px;
+}
+
+.extracurriculars {
+  background-color: hotpink;
+  margin: 20px;
+  padding: 30px;
+}
+
+.new-section {
+  background-color: #fcba03;
+  color: blueviolet;
+  margin: 20px;
+}
+
+#skill-list {
+    background-image: linear-gradient(to right, greenyellow , gray);
+
+}
+
+#footer-class { 
+  background-color: gold;
+  color: white;
+  padding: 20px;
+}
+
+body {
+  font-family: 'Courier New';
+}
+
+
+
+
+
+
+
+
+
+
+#footer-class {
+  background-color: lightgoldenrodyellow;
+  color: black;
+  padding: 20px;
+}
+
+body{
+  font-family: 'Courier New'
+}
